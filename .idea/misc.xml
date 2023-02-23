@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/01-01-java-kotlin" />
+    <file type="web" url="file://$PROJECT_DIR$/02-01-first-app" />
+    <file type="web" url="file://$PROJECT_DIR$/02-02-null-handling" />
+    <file type="web" url="file://$PROJECT_DIR$/03-01-calculate-age" />
+    <file type="web" url="file://$PROJECT_DIR$/03-02-scope-functions" />
+    <file type="web" url="file://$PROJECT_DIR$/03-03-scope-functions-2" />
+    <file type="web" url="file://$PROJECT_DIR$/03-04-if-vs-when" />
+    <file type="web" url="file://$PROJECT_DIR$/03-05-extension-functions" />
+    <file type="web" url="file://$PROJECT_DIR$/04-01-add-testing" />
+    <file type="web" url="file://$PROJECT_DIR$/04-02-mock-dates" />
+    <file type="web" url="file://$PROJECT_DIR$/05-01-data-classes" />
+    <file type="web" url="file://$PROJECT_DIR$/05-02-companion-object" />
+    <file type="web" url="file://$PROJECT_DIR$/05-03-list-map" />
+    <file type="web" url="file://$PROJECT_DIR$/06-01-enums" />
+    <file type="web" url="file://$PROJECT_DIR$/06-02-sealed-class" />
+    <file type="web" url="file://$PROJECT_DIR$/07-01-refactor" />
+    <file type="web" url="file://$PROJECT_DIR$/08-01-http-request" />
+    <file type="web" url="file://$PROJECT_DIR$/09-01-coroutines" />
+  </component>
+</project>

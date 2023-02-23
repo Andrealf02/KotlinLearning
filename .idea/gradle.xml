@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01-01-java-kotlin" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01-01-java-kotlin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/02-01-first-app" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/02-01-first-app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/02-02-null-handling" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/02-02-null-handling" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03-01-calculate-age" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03-01-calculate-age" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03-02-scope-functions" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03-02-scope-functions" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03-03-scope-functions-2" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03-03-scope-functions-2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03-04-if-vs-when" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03-04-if-vs-when" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03-05-extension-functions" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03-05-extension-functions" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04-01-add-testing" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04-01-add-testing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04-02-mock-dates" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04-02-mock-dates" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05-01-data-classes" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/05-01-data-classes" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05-02-companion-object" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/05-02-companion-object" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05-03-list-map" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/05-03-list-map" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06-01-enums" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06-01-enums" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06-02-sealed-class" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06-02-sealed-class" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07-01-refactor" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07-01-refactor" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/08-01-http-request" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/08-01-http-request" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/09-01-coroutines" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/09-01-coroutines" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

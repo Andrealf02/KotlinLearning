@@ -15,7 +15,7 @@ class CatCreator(private val reader: Reader, private val writer: Writer, private
         val color = obtainInput("What is the color of your cat?")
         val birthDate = obtainInput("When did your cat birth?")
 
-        if (origin.isNullOrEmpty() || origin.isNullOrBlank()) {
+        if (origin.isNullOrEmpty() || origin.isBlank()) {
             throw InvalidOrigin(origin)
         }
 
@@ -33,7 +33,7 @@ class CatCreator(private val reader: Reader, private val writer: Writer, private
                 id = UUID.fromString(id),
                 name = name.value,
                 origin = origin,
-                color = Cat.Color.from(color),
+                color = Cat.Color.from(color).toString(),
                 birthDate = LocalDate.parse(birthDate),
                 createdAt = clock.now()
             )
